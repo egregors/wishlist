@@ -13,7 +13,7 @@
 
 - [x] [santoku](https://en.wikipedia.org/wiki/Santoku)
 - [x] japanese wet stone knife sharpening (1000\3000)
-- [x] japanese wet stone knife sharpening (3000\5000)
+- [ ] japanese wet stone knife sharpening (3000\5000)
 - [ ] cook tweezers like [this](https://www.amazon.com/Rivoean-Tweezers-Culinary-Stainless-Precision/dp/B0799NTCM3?ref_=fsclp_pl_dp_3)
 - [ ] fish bone tweezers like [this](https://www.amazon.com/Kwizing-MADE-JAPAN-Tweezers-GLOBAL/dp/B01M8FHKOS?ref_=fsclp_pl_dp_4)
 - [x] meat thermometer
