@@ -1,4 +1,5 @@
 # wishlist
+
 ### Books
 
 - [ ] Haskell in Depth
@@ -12,6 +13,7 @@
 ### Cooking
 
 - [x] [santoku](https://en.wikipedia.org/wiki/Santoku)
+- [ ] [Sakai](https://www.instagram.com/p/CBhgafuD0DK/?igshid=1r5c4esci7ktw)
 - [x] japanese wet stone knife sharpening (1000\3000)
 - [ ] japanese wet stone knife sharpening (3000\5000)
 - [ ] cook tweezers like [this](https://www.amazon.com/Rivoean-Tweezers-Culinary-Stainless-Precision/dp/B0799NTCM3?ref_=fsclp_pl_dp_3)
@@ -22,4 +24,5 @@
 
 - [ ] mic for nomads [Lewitt dgt-450](https://www.lewitt-audio.com/microphones/dgt-digital/dgt-450)
 - [ ] Switch compact [Dock](https://www.kickstarter.com/projects/humanthings/genki-covert-dock/description)
-
+- [ ] guitar case for air travel, smth like [fender](https://www.amazon.co.uk/dp/B01MTSVO2U?linkCode=gs2&tag=musiccritic0a-21)
+- [ ] new backpack, idk which one
