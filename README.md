@@ -19,6 +19,7 @@
 - [ ] cook tweezers like [this](https://www.amazon.com/Rivoean-Tweezers-Culinary-Stainless-Precision/dp/B0799NTCM3?ref_=fsclp_pl_dp_3)
 - [x] fish bone tweezers like [this](https://www.amazon.com/Kwizing-MADE-JAPAN-Tweezers-GLOBAL/dp/B01M8FHKOS?ref_=fsclp_pl_dp_4)
 - [x] meat thermometer
+- [ ] [Microplane](https://www.amazon.com/Microplane-46020-Grater-Made-Cheese-Soft-Handle-Black/dp/B00151WA06) Premium Classic Series Zester Grater
 
 ### Stuff
 
