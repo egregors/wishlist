@@ -18,7 +18,7 @@
 
 ### Stuff
 
-- [ ] Switch compact [Dock](https://www.kickstarter.com/projects/humanthings/genki-covert-dock/description)
+- [ ] Switch compact [Dock](https://www.genkithings.com/products/covert-dock)
 
 ### Music
 
