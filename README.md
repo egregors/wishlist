@@ -22,6 +22,7 @@
 - [ ] Switch compact [Dock](https://www.genkithings.com/products/covert-dock)
 - [ ] Raspberry Pi [4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) 
 - [ ] Nomad Wi-Fi 6 [router](https://www.gl-inet.com/products/gl-axt1800/)
+- [ ] (yubico)[https://www.yubico.com/]
 
 ### Music
 
