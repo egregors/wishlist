@@ -15,14 +15,14 @@
 ### Cooking
 
 - [ ] cook tweezers like [this](https://www.amazon.com/Rivoean-Tweezers-Culinary-Stainless-Precision/dp/B0799NTCM3?ref_=fsclp_pl_dp_3)
-- [ ] [Pulltex corkscrew](https://www.pulltex.com/en/corkscrew/monza-corkscrew.html)
+- [x] [Pulltex corkscrew](https://www.pulltex.com/en/corkscrew/monza-corkscrew.html)
 
 ### Stuff
 
 - [ ] Switch compact [Dock](https://www.genkithings.com/products/covert-dock)
 - [ ] Raspberry Pi [4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) 
 - [ ] Nomad Wi-Fi 6 [router](https://www.gl-inet.com/products/gl-axt1800/)
-- [ ] [yubico](https://www.yubico.com/)
+- [x] [yubico](https://www.yubico.com/)
 
 ### Music
 
