@@ -7,8 +7,8 @@
 
 ### Games
 
-- [ ] [Steam Deck](https://store.steampowered.com/steamdeck)
-- [ ] Some sort of dock for a Steam Deck
+- [x] [Steam Deck](https://store.steampowered.com/steamdeck)
+- [x] Some sort of dock for a Steam Deck
 - [ ] [(Switch) Hollow Knights: Silksong](https://hollowknightsilksong.com/) (not released yet)
 - [ ] (Switch) Breath of the Wild 2 (not even close to release)
 
@@ -16,10 +16,10 @@
 
 - [ ] cook tweezers like [this](https://www.amazon.com/Rivoean-Tweezers-Culinary-Stainless-Precision/dp/B0799NTCM3?ref_=fsclp_pl_dp_3)
 - [x] [Pulltex corkscrew](https://www.pulltex.com/en/corkscrew/monza-corkscrew.html)
+- [ ] deba
 
 ### Stuff
 
-- [ ] Switch compact [Dock](https://www.genkithings.com/products/covert-dock)
 - [ ] Raspberry Pi [4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) 
 - [ ] Nomad Wi-Fi 6 [router](https://www.gl-inet.com/products/gl-axt1800/)
 - [x] [yubico](https://www.yubico.com/)
