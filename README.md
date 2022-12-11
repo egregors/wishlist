@@ -9,7 +9,7 @@
 
 - [x] [Steam Deck](https://store.steampowered.com/steamdeck)
 - [x] Some sort of dock for a Steam Deck
-- [ ] [(Switch) Hollow Knights: Silksong](https://hollowknightsilksong.com/) (not released yet)
+- [ ] [(~~Switch~~ SteamDeck) Hollow Knights: Silksong](https://hollowknightsilksong.com/) (not released yet)
 - [ ] (Switch) Breath of the Wild 2 (not even close to release)
 
 ### Cooking
@@ -21,7 +21,7 @@
 ### Stuff
 
 - [ ] Raspberry Pi [4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) 
-- [ ] Nomad Wi-Fi 6 [router](https://www.gl-inet.com/products/gl-axt1800/)
+- [x] Nomad Wi-Fi 6 [router](https://www.gl-inet.com/products/gl-axt1800/)
 - [x] [yubico](https://www.yubico.com/)
 
 ### Music
