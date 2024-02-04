@@ -22,6 +22,7 @@
 - [ ] Raspberry Pi [4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) 
 - [x] Nomad Wi-Fi 6 [router](https://www.gl-inet.com/products/gl-axt1800/)
 - [x] [yubico](https://www.yubico.com/)
+- [ ] Keychron Q3 Pro with banana switch
 
 ### Music
 
