@@ -24,6 +24,7 @@
 - [ ] Home Wi-Fi 6 (smth from gl-inet I guess)
 - [x] [yubico](https://www.yubico.com/)
 - [ ] (Keychron Q3 Pro with banana switch)[https://keychron.it/products/keychron-q3-pro-qmk-via-wireless-custom-mechanical-keyboard?variant=41817106809015]
+- [ ] (flipper)[https://flipperzero.one/]
 
 ### Music
 
