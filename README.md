@@ -23,7 +23,7 @@
 - [x] Nomad Wi-Fi 6 [router](https://www.gl-inet.com/products/gl-axt1800/)
 - [ ] ~~Home Wi-Fi 6 (smth from gl-inet I guess)~~ [UniFi](https://ui.com/eu/en/cloud-gateways/wifi-integrated/dream-router)
 - [x] [yubico](https://www.yubico.com/)
-- [ ] [Keychron Q3 Pro with banana switch](https://keychron.it/products/keychron-q3-pro-qmk-via-wireless-custom-mechanical-keyboard?variant=41817106809015)
+- [ ] [Keychron Q1 Pro with banana switch]([https://keychron.it/products/keychron-q3-pro-qmk-via-wireless-custom-mechanical-keyboard?variant=41817106809015](https://keychron.it/products/keychron-q1-pro-qmk-via-wireless-custom-mechanical-keyboard?variant=41703139377335))
 - [ ] [flipper](https://flipperzero.one/)
 
 ### Music
