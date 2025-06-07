@@ -17,7 +17,7 @@
 - [ ] cook tweezers like [this](https://www.amazon.com/Rivoean-Tweezers-Culinary-Stainless-Precision/dp/B0799NTCM3?ref_=fsclp_pl_dp_3)
 - [x] [Pulltex corkscrew](https://www.pulltex.com/en/corkscrew/monza-corkscrew.html)
 - [ ] deba
-- [ ] kitchenaid
+- [x] kitchenaid
 
 ### Stuff
 
