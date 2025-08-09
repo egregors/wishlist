@@ -38,5 +38,5 @@
 - [x] [op-1](https://teenage.engineering/products/op-1)
 - [ ] guitar case for air travel, smth like [fender](https://www.amazon.co.uk/dp/B01MTSVO2U?linkCode=gs2&tag=musiccritic0a-21)
 - [x] [slg200s](https://europe.yamaha.com/en/products/musical_instruments/guitars_basses/silent_guitar/slg200_series/index.html)
-- [ ] [DT 770 PRO](https://www.beyerdynamic.de/p/dt-770-pro)
+- [x] [DT 770 PRO](https://www.beyerdynamic.de/p/dt-770-pro)
 - [ ] [SM7b](https://www.amazon.de/-/en/dp/B0002E4Z8M/?psc=1)
