@@ -9,7 +9,7 @@
 
 - [x] [Steam Deck](https://store.steampowered.com/steamdeck)
 - [x] Some sort of dock for a Steam Deck
-- [ ] [(~~Switch~~ SteamDeck) Hollow Knights: Silksong](https://hollowknightsilksong.com/) (not released yet)
+- [x] [(~~Switch~~ SteamDeck) Hollow Knights: Silksong](https://hollowknightsilksong.com/)
 - [ ] New game from RadicalFish (next after CrossCode)
 - [ ] Mouse for cs2
 - [ ] Simple mouse pad
