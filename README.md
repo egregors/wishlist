@@ -8,6 +8,7 @@
 ### Games
 
 - [x] [Steam Deck](https://store.steampowered.com/steamdeck)
+- [ ] Steam Frame – ???
 - [x] Some sort of dock for a Steam Deck
 - [x] [(~~Switch~~ SteamDeck) Hollow Knights: Silksong](https://hollowknightsilksong.com/)
 - [ ] New game from RadicalFish (next after CrossCode)
