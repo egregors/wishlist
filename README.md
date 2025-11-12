@@ -8,7 +8,9 @@
 ### Games
 
 - [x] [Steam Deck](https://store.steampowered.com/steamdeck)
-- [ ] Steam Frame – ???
+- [ ] Steam Frame
+- [ ] Steam Controller
+- [ ] Steam Machine
 - [x] Some sort of dock for a Steam Deck
 - [x] [(~~Switch~~ SteamDeck) Hollow Knights: Silksong](https://hollowknightsilksong.com/)
 - [ ] New game from RadicalFish (next after CrossCode)
@@ -26,12 +28,11 @@
 
 - [x] Raspberry Pi [4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/) 
 - [x] Nomad Wi-Fi 6 [router](https://www.gl-inet.com/products/gl-axt1800/)
-- [ ] ~~Home Wi-Fi 6 (smth from gl-inet I guess)~~ [UniFi](https://ui.com/eu/en/cloud-gateways/wifi-integrated/dream-router)
+- [ ] Home Wi-Fi 6 (smth from gl-inet I guess)
 - [x] [yubico](https://www.yubico.com/)
 - [x] [Keychron Q1 Pro with banana switch](https://keychron.it/products/keychron-q1-pro-qmk-via-wireless-custom-mechanical-keyboard?variant=41703139377335)
 - [ ] [flipper](https://flipperzero.one/)
 - [ ] rpi camera
-- [ ] gamepad from valve (didn't released yeat)
 
 ### Music
 
